@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/hahmed/deadfire.git
-  revision: 4491eb002d110ec7d23d8f33c6c90764207ff936
+  revision: df4e8c46e791c6d52e8eba9fbecaf973cbbb3e01
   branch: main
   specs:
     deadfire (0.2.0)
